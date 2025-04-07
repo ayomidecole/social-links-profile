@@ -7,6 +7,18 @@ body{
     background-color: hsl(0, 0%, 8%);
 }
 
+.profile{
+    margin-top: 10%;
+    text-align: center;
+    width: 360px;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
+}
+
+/*img{
+
+}*/
+
 h1 {
     color: white;
     font-size: 20px;
@@ -24,12 +36,6 @@ p {
     font-size: 14px;
 }
 
-.profile{
-    text-align: center;
-    width: 360px;
-    background-color: hsl(0, 0%, 12%);
-    border-radius: 10px;
-}
 
 .link{
     color: white;
