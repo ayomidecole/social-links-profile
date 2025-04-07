@@ -1,0 +1,48 @@
+@import url('https://fonts.google.com/specimen/Inter');
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter', sans-serif;
+    background-color: hsl(0, 0%, 8%);
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+}
+
+h3{
+    color: hsl(75, 94%, 57%);
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+    color: white;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.profile{
+    text-align: center;
+    width: 360px;
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
+}
+
+.link{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    padding: 10px;
+    width: 280px;
+    margin-left: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.link:hover{
+    cursor: pointer;
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
